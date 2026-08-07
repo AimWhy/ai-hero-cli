@@ -1,5 +1,11 @@
 # ai-hero-cli
 
+## 0.7.0
+
+### Minor Changes
+
+- 0a0d18f: `edit-commit` and `delete-commit` now mark lessons that carry no content. A placeholder commit shows an "(empty — no content)" notice in front of its description in the picker, so you can tell before you choose it.
+
 ## 0.6.2
 
 ### Patch Changes
